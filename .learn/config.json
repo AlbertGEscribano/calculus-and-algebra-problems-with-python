@@ -1,0 +1,91 @@
+{
+    "config": {
+        "port": 3000,
+        "os": "win32",
+        "editor": {
+            "mode": "extension",
+            "agent": "vscode",
+            "version": "5.0.20"
+        },
+        "dirPath": "./.learn",
+        "configPath": "learn.json",
+        "outputPath": ".learn/dist",
+        "publicPath": "/preview",
+        "publicUrl": "http://localhost:3000",
+        "contact": "https://github.com/learnpack/learnpack/issues/new",
+        "language": "auto",
+        "autoPlay": true,
+        "projectType": "project",
+        "grading": "isolated",
+        "exercisesPath": "./",
+        "webpackTemplate": null,
+        "disableGrading": false,
+        "disabledActions": [],
+        "actions": [],
+        "entries": {
+            "html": "index.html",
+            "vanillajs": "index.js",
+            "react": "app.jsx",
+            "node": "app.js",
+            "python3": "app.py",
+            "java": "app.java"
+        },
+        "suggestions": {
+            "agent": "vscode"
+        },
+        "warnings": {
+            "agent": null
+        },
+        "title": "Calculus and Algebra problems with Python",
+        "slug": "calculus-and-algebra-problems-with-python",
+        "preview": "https://github.com/breatheco-de/calculus-and-algebra-problems-with-python/blob/main/preview.jpeg?raw=true",
+        "solution": "https://github.com/breatheco-de/calculus-and-algebra-problems-with-python/blob/main/solutions.ipynb",
+        "status": "published",
+        "translations": [
+            "es",
+            "us"
+        ],
+        "technologies": [
+            "matplotlib",
+            "numpy",
+            "pandas",
+            "python"
+        ],
+        "difficulty": "beginner",
+        "syntax": "python",
+        "duration": 2,
+        "autoStart": false,
+        "description": "Use your NumPy, Pandas, and Matplotlib skills to practice a little about calculus and algebra"
+    },
+    "address": "http://localhost:3000",
+    "currentExercise": null,
+    "exercises": [
+        {
+            "position": 0,
+            "path": "notebook",
+            "slug": "notebook",
+            "translations": {},
+            "language": null,
+            "entry": null,
+            "title": "notebook",
+            "graded": false,
+            "files": [
+                {
+                    "path": "notebook/problems.ipynb",
+                    "name": "problems.ipynb",
+                    "hidden": true
+                },
+                {
+                    "path": "notebook/solutions.ipynb",
+                    "name": "solutions.ipynb",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        }
+    ],
+    "bugsLink": null,
+    "videoSolutions": false,
+    "localhostOnly": false,
+    "session": 3173346049964038700
+}
